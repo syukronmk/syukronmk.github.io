@@ -1,67 +1,3 @@
-/* Start Font */
-@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
-/* End Font */
-
-/* Start Body */
-body { 
-    font-family: Roboto, Helvetica, Arial, sans-serif;
-    font-size: 16px;
-    line-height: 1.5em;
-    margin: 0;
-    padding:0;
-}
-/* End Body */
-
-/* Start Debug */
-.bg-blue{
-    background-color:
-     rgb(87, 87, 197)
-}
-
-.bg-red{
-    background-color:
-     rgb(160, 64, 64)
-
-}
-.bg-gainsboro{
-    background-color: rgb(243, 240, 240)
-}
-/* End Debug */
-
-/* Start Container */
-.container {
-    margin: 10px auto;
-    overflow: auto;
-    width: 98%;
-}
-
-.container-full {
-    margin: 0px auto;
-    overflow: auto;
-    width: 100%;
-}
-/* End Container */
-
-/* Start Logo */
-.logo{
-    text-align: center;
-}
-/* End Logo */
-
-/* Start Anchor / Hyperlink */
-a:link,
-a:visited {
-    color: #0366d6;
-    text-decoration: none;
-}
-
-a:hover,
-a:active {
-    color: #000000;
-    text-decoration: underline;
-}
-/* End Anchor / Hyperlink */
-
 /* Start Quotes */
 @import url(https://fonts.googleapis.com/css?family=Lato);
 @import url(https://fonts.googleapis.com/css?family=Oswald);
@@ -136,6 +72,69 @@ a:active {
   text-decoration: none;
 }
 /* End Quotes */
+/* Start Font */
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+/* End Font */
+
+/* Start Body */
+body { 
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5em;
+    margin: 0;
+    padding:0;
+}
+/* End Body */
+
+/* Start Debug */
+.bg-blue{
+    background-color:
+     rgb(87, 87, 197)
+}
+
+.bg-red{
+    background-color:
+     rgb(160, 64, 64)
+
+}
+.bg-gainsboro{
+    background-color: rgb(243, 240, 240)
+}
+/* End Debug */
+
+/* Start Container */
+.container {
+    margin: 10px auto;
+    overflow: auto;
+    width: 98%;
+}
+
+.container-full {
+    margin: 0px auto;
+    overflow: auto;
+    width: 100%;
+}
+/* End Container */
+
+/* Start Logo */
+.logo{
+    text-align: center;
+}
+/* End Logo */
+
+/* Start Anchor / Hyperlink */
+a:link,
+a:visited {
+    color: #0366d6;
+    text-decoration: none;
+}
+
+a:hover,
+a:active {
+    color: #000000;
+    text-decoration: underline;
+}
+/* End Anchor / Hyperlink */
 
 /* Start Menu Primer */
 .menu-primer ul {
